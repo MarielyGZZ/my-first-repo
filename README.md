@@ -1,5 +1,5 @@
 # My First Github Repository
-Hello my name is Mariely, and this is my frist repository. 
+Hello my name is Mariely, and this is my first repository. 
 I'm learning Git and Github for version control.
 
 ## Things I've learned so far:
